@@ -1,0 +1,9 @@
+C:\Users\alexs\OneDrive\Github\DiscordSpam\bin\Debug\DiscordSpam.exe.config
+C:\Users\alexs\OneDrive\Github\DiscordSpam\bin\Debug\DiscordSpam.exe
+C:\Users\alexs\OneDrive\Github\DiscordSpam\bin\Debug\DiscordSpam.pdb
+C:\Users\alexs\OneDrive\Github\DiscordSpam\obj\Debug\DiscordSpam.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Github\DiscordSpam\obj\Debug\DiscordSpam.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Github\DiscordSpam\obj\Debug\DiscordSpam.exe
+C:\Users\alexs\OneDrive\Github\DiscordSpam\obj\Debug\DiscordSpam.pdb
+C:\Users\alexs\OneDrive\Github\DiscordSpam\obj\Debug\DiscordSpam.Properties.Resources.resources
+C:\Users\alexs\OneDrive\Github\DiscordSpam\obj\Debug\DiscordSpam.csproj.GenerateResource.cache
